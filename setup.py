@@ -32,7 +32,7 @@ from setuptools import Extension
 
 # If you need to change anything, it should be enough to change setup.cfg.
 
-PACKAGE_NAME = "pysqlcipher3"
+PACKAGE_NAME = "pysqlcipher"
 VERSION = '1.0.3'
 LONG_DESCRIPTION = \
 """Python interface to SQLCipher
